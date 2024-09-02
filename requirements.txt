@@ -11,4 +11,4 @@ djangorestframework==3.3.1
 PyYAML==3.11
 
 #appserver
-gunicorn==19.4.1
+gunicorn==21.2.0
