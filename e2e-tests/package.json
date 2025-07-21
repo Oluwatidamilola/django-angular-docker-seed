@@ -9,6 +9,6 @@
   "author": "domasx2@gmail.com (https://github.com/domasx2)",
   "license": "ISC",
   "dependencies": {
-    "protractor": "^2.0.0"
+    "protractor": "^7.0.0"
   }
 }
